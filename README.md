@@ -7,7 +7,9 @@ Download: [PowerMeter v1.0 Release](https://github.com/Ringman3640/PowerMeter/re
 
 ## Instructions
 
-[A video tutorial will be added here in the future]
+Tutorial/Demonstration Video
+
+[![Demonstration YouTube video](https://img.youtube.com/vi/QLcEq95ct8A/hqdefault.jpg)](https://www.youtube.com/watch?v=QLcEq95ct8A)
 
 ### Input Mode
 Launching the program will bring up a window for changing input modes and controls. The two input modes available are mouse input and keyboard input.
