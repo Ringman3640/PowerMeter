@@ -3,6 +3,8 @@ A program to add a power meter to the game Golf It!
 
 Allows users to measure the power of their shots rather than needing to manually swing using the mouse.
 
+Download: [PowerMeter v1.0 Release](https://github.com/Ringman3640/PowerMeter/releases/download/v1.0/Golf-It-PowerMeter-v1.0.zip)
+
 ## Instructions
 
 [A video tutorial will be added here in the future]
